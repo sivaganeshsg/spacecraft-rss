@@ -9,6 +9,14 @@ Database Schema available in "spacecraft.sql" <br />
 Instruction :<br /> 
 Need to change Database Details and BASEURL in config.php file.<br /><br />
 
+<br />Implementation overview :<br />
+
+1) OOP <br />
+2) Used Modular and Reusable function <br />
+3) Secure saving of data using PDO Prepare statements <br />
+4) Display output after filtering and sanitization <br />
+5) Very Concise Comments and readable code<br />
+
 Screenshots :<br />
 
 1) Home page <br /><br />
@@ -22,12 +30,4 @@ Screenshots :<br />
 
 4) Refresh Notification <br /><br />
 ![Refresh Notification](https://i.imgur.com/ezwt00F.png "Refresh Notification")
-
-<br />Implementation overview :<br />
-
-1) OOP <br />
-2) Used Modular and Reusable function <br />
-3) Secure saving of data using PDO Prepare statements <br />
-4) Display output after filtering and sanitization <br />
-5) Very Concise Comments and readable code<br />
 
